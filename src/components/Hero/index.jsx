@@ -53,7 +53,7 @@ export default function Hero() {
             </Col>
             <Col xs={12} lg={6} xl={5} className="d-md-none d-lg-block">
               <img
-                src="/ian-jackson-headshot.png"
+                src="/ian-jackson-headshot-2026.png"
                 className="w-100"
                 alt="Portait headshot of Ian Jackson"
               ></img>
