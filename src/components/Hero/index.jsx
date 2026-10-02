@@ -11,7 +11,7 @@ export default function Hero() {
           <Row className="align-items-center justify-content-between">
             <Col xs={12} lg={6} className="mb-5 mb-md-0">
               <Container fluid className="p-0">
-                <Row>
+                <Row className="mb-3">
                   <Col className="col-auto">
                     <p className="prehead m-0">
                       Hello! I'm Ian Jackson and I'm a
@@ -23,13 +23,12 @@ export default function Hero() {
                 </Row>
               </Container>
               <h1>
-                Brand Designer Specializing in{" "}
+                Multimedia Designer
                 <br className="d-none d-md-block" />
-                <span className="fst-italic">Web and Marketing Design</span>
+                in Fort Collins, CO
               </h1>
-              <p className="fs-3 mb-3 mb-lg-5">
-                I craft strategic and engaging designs to help drive business
-                and connect brands to their audiences.
+              <p className="fs-4 mb-3 mb-lg-5">
+                Creative design to better your business and build your brand.
               </p>
               <Button
                 as="a"
@@ -38,7 +37,7 @@ export default function Hero() {
                 size="lg"
                 className="me-3 mb-3 mb-sm-0"
               >
-                Check Out My Work
+                View Work
               </Button>
               <Button
                 as="a"

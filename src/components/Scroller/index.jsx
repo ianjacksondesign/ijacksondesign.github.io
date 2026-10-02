@@ -35,13 +35,16 @@ export default function Scroller() {
           <Row>
             <Col className="scroller">
               <div className="scroller__inner">
-                <div className="scroller__item">14 years experience</div>
+                <div className="scroller__item">20+ years experience</div>
                 <div className="scroller__item">/</div>
                 <div className="scroller__item">
                   Bachelor of Arts in Graphic Design
                 </div>
                 <div className="scroller__item">/</div>
-                <div className="scroller__item">Designer + Coder</div>
+                <div className="scroller__item">
+                  Graphic Design + Web Design + Photography + Videography +
+                  Motion Graphics
+                </div>
                 <div className="scroller__item">/</div>
               </div>
             </Col>
