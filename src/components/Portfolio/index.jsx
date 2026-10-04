@@ -14,7 +14,7 @@ export default function Portfolio() {
     <>
       <section className="py-3 py-md-5 py-xxl-6" id="portfolio">
         <Container fluid="xl" className="text-white">
-          <h2 className="display-4 mb-5">Portfolio</h2>
+          <h2 className="text-center display-4 mb-5">Portfolio</h2>
           <Row>
             {projects.map((project, i) => (
               <Col xs={12}>

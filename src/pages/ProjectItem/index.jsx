@@ -11,16 +11,18 @@ import projectData from "../../projects.json";
 export default function ProjectItem() {
   const { projectUrl } = useParams();
   const [project, setProject] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     const matchedProject = projectData.projects.find(
       (item) => item.projectUrl === projectUrl,
     );
     setProject(matchedProject);
+    setIsLoading(false);
   }, [projectUrl]);
 
-  if (project === null) {
-    return <Spinner animation="border" variant="primary" />;
+  if (isLoading) {
+    return <Spinner animation="border" variant="primary" className="mx-auto" />;
   }
 
   return (

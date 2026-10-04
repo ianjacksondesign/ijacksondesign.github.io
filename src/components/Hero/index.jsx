@@ -28,7 +28,8 @@ export default function Hero() {
                 in Fort Collins, CO
               </h1>
               <p className="fs-4 mb-3 mb-lg-5">
-                Creative design to better your business and build your brand.
+                Design to help build your brand, connect your audience, and{" "}
+                <em>better your business</em>.
               </p>
               <Button
                 as="a"
