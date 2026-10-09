@@ -53,12 +53,18 @@ export default function ProjectItem() {
           <Row className="g-3">
             {project.images.map((img) => (
               <Col xs={12} lg={6}>
-                <Image
-                  src={img.imageLink}
-                  alt={img.imageAlt}
-                  fluid
-                  loading="eager"
-                />
+                {project.name === "Super Vacuum Manufacturing" ? (
+                  <video loop controls>
+                    <source src={img.imageLink} />
+                  </video>
+                ) : (
+                  <Image
+                    src={img.imageLink}
+                    alt={img.imageAlt}
+                    fluid
+                    loading="eager"
+                  />
+                )}
               </Col>
             ))}
           </Row>

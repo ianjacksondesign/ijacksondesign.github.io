@@ -57,8 +57,8 @@ export default function Portfolio() {
                       >
                         <div className="img-container">
                           <img
-                            src={project.images[0].imageLink}
-                            alt={project.images[0].imageAlt}
+                            src={project.thumbnail}
+                            alt={project.thumbnailAlt}
                           />
                         </div>
                       </Col>

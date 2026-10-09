@@ -22008,6 +22008,11 @@ hr {
      object-fit: contain;
 }
 
+video {
+  width: 100%;
+  aspect-ratio: 9x16;
+}
+
 @media screen and (max-width: 575px) {
   html {
     scroll-padding-top: 50px;
