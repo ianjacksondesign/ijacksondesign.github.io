@@ -24,8 +24,7 @@ export default function Hero() {
               </Container>
               <h1>
                 Multimedia Designer
-                <br className="d-none d-md-block" />
-                in Fort Collins, CO
+                <br className="d-none d-md-block" /> in Fort Collins, CO
               </h1>
               <p className="fs-4 mb-3 mb-lg-5">
                 Design to help build your brand, connect your audience, and{" "}
