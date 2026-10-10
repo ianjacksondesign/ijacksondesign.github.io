@@ -44,7 +44,7 @@ export default function ProjectItem() {
                 <a
                   href="https://www.flickr.com/photos/203700767@N06/albums"
                   target="_blank"
-                  className="btn btn-primary mb-5"
+                  className="btn btn-primary mt-5"
                 >
                   See More Photography
                 </a>
