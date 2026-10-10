@@ -40,6 +40,15 @@ export default function ProjectItem() {
             <Col xs={12} md={6} className="mb-5 mb-md-0">
               <h3>Project Description</h3>
               <p>{project.projectDescription}</p>
+              {project.name === "Fort Collins Natural Areas" && (
+                <a
+                  href="https://www.flickr.com/photos/203700767@N06/albums"
+                  target="_blank"
+                  className="btn btn-primary mb-5"
+                >
+                  See More Photography
+                </a>
+              )}
             </Col>
             <Col xs={12} md={6} xl={5}>
               <h3>Deliverables</h3>
