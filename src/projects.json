@@ -11,6 +11,10 @@
       "deliverables": ["Product Photography", "Social Media Videos"],
       "images": [
         {
+          "imageLink": "https://www.dropbox.com/scl/fi/572iggxooj75sr4w7y12g/san-diego-air-light.mp4?rlkey=8lcyuir2i51mv8owrsfdhfayt&raw=1",
+          "imageAlt": "San Diego Air/Light video"
+        },
+        {
           "imageLink": "https://www.dropbox.com/scl/fi/37v5botm2fp08poenhhcg/federal-heights-pixel.mp4?rlkey=c4d5t8eib56ry2m7b8vga4t4a&st=6s8kai3d&raw=1",
           "imageAlt": "Federal Heights Pixel video"
         },
@@ -21,10 +25,6 @@
         {
           "imageLink": "https://www.dropbox.com/scl/fi/08o9ezcackv4qfk3j8c5e/surprise-water-supply.mp4?rlkey=4bhc5pxktl9ynbkimwrwzyr4y&st=gzt4d08s&raw=1",
           "imageAlt": "Surprise Water Supply video"
-        },
-        {
-          "imageLink": "https://www.dropbox.com/scl/fi/j7rwticn3s7n9y4lx3x26/loveland-heavy-rescue.mp4?rlkey=8sjymh2gafwow4d8rf90xkz7n&st=uwgc7xhe&raw=1",
-          "imageAlt": "Loveland Heavy Rescue video"
         }
       ]
     },
