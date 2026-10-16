@@ -11,6 +11,10 @@
       "deliverables": ["Product Photography", "Social Media Videos"],
       "images": [
         {
+          "imageLink": "https://www.dropbox.com/scl/fi/p9xjzft6hq5hnbd3raegl/clark-county-heavy-rescue.mp4?rlkey=04vgjg8z3c0us45wj3wp9ai7k&raw=1",
+          "imageAlt": "Clark County Heavy Rescue video"
+        },
+        {
           "imageLink": "https://www.dropbox.com/scl/fi/572iggxooj75sr4w7y12g/san-diego-air-light.mp4?rlkey=8lcyuir2i51mv8owrsfdhfayt&raw=1",
           "imageAlt": "San Diego Air/Light video"
         },
@@ -25,6 +29,10 @@
         {
           "imageLink": "https://www.dropbox.com/scl/fi/08o9ezcackv4qfk3j8c5e/surprise-water-supply.mp4?rlkey=4bhc5pxktl9ynbkimwrwzyr4y&st=gzt4d08s&raw=1",
           "imageAlt": "Surprise Water Supply video"
+        },
+        {
+          "imageLink": "https://www.dropbox.com/scl/fi/572iggxooj75sr4w7y12g/san-diego-air-light.mp4?rlkey=8lcyuir2i51mv8owrsfdhfayt&raw=1",
+          "imageAlt": "San Diego Medium Rescue video"
         }
       ]
     },
